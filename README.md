@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭  I’m currently studying electronic engineering (embedded systems), 5th semester.
-- 🌱  I’m currently learning more about design of digital systems using the Xilinx Zynq-7000 SoC, digital signal processing and big data + machine learning.
-- :wolf: I have a master's degree in Finance and Economics from Aarhus University, School of Business.
+- 🔭  Soon to complete my degree in electronic engineering (embedded systems).
+- 🌱  Currently learning more about design of digital systems using the Xilinx Zynq-7000 SoC, digital signal processing and big data + machine learning.
+- :wolf: Have a master's degree in Finance and Economics, worked for several years in finance and pharmaceuticals.
 - ⚡ Fun fact: I'm Danish and I live in Singapore.
 
 <!--
