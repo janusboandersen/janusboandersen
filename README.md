@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭  Soon to complete my degree in electronic engineering (embedded systems).
-- 🌱  Currently learning more about design of digital systems using the Xilinx Zynq-7000 SoC, digital signal processing and big data + machine learning.
-- :wolf: Have a master's degree in Finance and Economics, worked for several years in finance and pharmaceuticals.
+- 🔭  Soon to complete degree in embedded and software engineering (embedded systems and electronics).
+- 🌱  Currently learning more about SoC design with the Xilinx Zynq-7000 SoC, DSP and adaptive filters, and machine learning.
+- :wolf: Hold an M.Sc. in Finance and Economics, and have close to 10 years work and project experience from an industry-leading pharma company and from the banking sector.
 - ⚡ Fun fact: I'm Danish and I live in Singapore.
 
 <!--
