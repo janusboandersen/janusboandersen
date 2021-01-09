@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-- 🔭  Soon completing degree in embedded and software engineering (embedded systems and electronics).
+- 🔭  Completing degree in software and embedded engineering (embedded systems and electronics) this year.
 - 🌱  Currently working on
-  - Machine learning hardware implementations on Xilinx Zynq-7000 SoC,
-  - 3D vision and computer vision.
+  - Machine learning acceleration on SoC, using Xilinx Zynq-7000,
+  - 3D computer vision,
+  - Quadrotor control systems,
+  - Many other cool things...
 - :wolf: Have an M.Sc. in Finance and Economics, and close to 10 years work and project experience from an industry-leading pharma company and from the banking sector.
 - ⚡ I'm Danish and I live in Singapore.
 - :rocket: See my resume [here](https://github.com/janusboandersen/resume).
